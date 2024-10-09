@@ -1,0 +1,18 @@
+.header {
+    background-color: white; /* 背景色を白に */
+    padding: 1rem; /* パディングを追加 */
+}
+
+.container {
+    display: flex; /* Flexboxを使用 */
+    justify-content: space-between; /* 要素の間隔を均等に配置 */
+    align-items: center; /* 縦方向の中央揃え */
+}
+
+nav ul {
+    display: flex; /* Flexboxを使用 */
+    gap: 1.25rem; /* リスト項目の間隔 */
+    list-style: none; /* デフォルトのリストスタイルを削除 */
+    padding: 0; /* パディングを削除 */
+    margin: 0; /* マージンを削除 */
+}
