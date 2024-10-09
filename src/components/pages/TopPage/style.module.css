@@ -5,7 +5,7 @@
 
 .container {
     display: flex; /* Flexboxを使用 */
-    justify-content: space-between; /* 要素の間隔を均等に配置 */
+    justify-content: space-between; /* 要素の間隔を均等に配置 横方向*/
     align-items: center; /* 縦方向の中央揃え */
 }
 
